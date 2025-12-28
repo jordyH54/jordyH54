@@ -15,9 +15,9 @@ Soy Ingeniero en Sistemas Computacionales y disfruto mucho programar y aprender 
 
  Ademas de la tecnologia, 📖me gusta leer, 💪ir al gymnacio, 🎮jugar videojuegos, 🌮me encanta comer nuevas comidas, 🕺bailar, 🧬🤖 las peliculas y series de ciencia ficcion son lo mio, 🎵disfruto mas de mis actividades cuando escucho musica.
 
-## My Skills Include
+## Mis habilidades
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,16 +33,19 @@ Soy Ingeniero en Sistemas Computacionales y disfruto mucho programar y aprender 
 
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
-
 </span>
 
+
+## Visita mis redes sociales
+
+<a href= "https://www.instagram.com/jordy_hdez/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
  
 <!--
 **jordyH54/jordyH54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
