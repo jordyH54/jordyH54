@@ -56,10 +56,9 @@ Soy Ingeniero en Sistemas Computacionales y disfruto mucho programar y aprender 
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/jordy-hernandezz/" target="_blank" rel="noopener noreferrer">
+<a href= "https://www.linkedin.com/in/jordy-hernandezz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 
  
 <!--
