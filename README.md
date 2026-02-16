@@ -18,6 +18,11 @@ Soy Ingeniero en Sistemas Computacionales y disfruto mucho programar y aprender 
  ✔ Pregúntame cualquier cosa, estaré encantado de ayudarte.<br>
 
  Ademas de la tecnologia, 📖me gusta leer, 💪ir al gymnacio, 🎮jugar videojuegos, 🌮me encanta comer nuevas comidas, 🕺bailar, 🧬🤖 las peliculas y series de ciencia ficcion son lo mio, 🎵disfruto mas de mis actividades cuando escucho musica.
+ 
+ ## 🌐 Portafolio
+
+Puedes ver mi portafolio aquí:
+👉 https://jordyh54.github.io/portafolio/
 
 ## Mis habilidades
 
