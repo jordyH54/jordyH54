@@ -26,7 +26,7 @@ Puedes ver mi portafolio aquí:
 
 ## Mis habilidades
 
-<h4> Lenguajes </h4>
+<h4> Desarrollo Core </h4>
 
 <span> 
 
